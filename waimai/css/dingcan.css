@@ -292,16 +292,18 @@ a{
 .list2 .caozuo .dec{
     border: 1px solid rgba(128, 128, 128, 0.73);
     display: inline-block;
-    width: 30%;
-    height: 30%;
+     width: 0.65rem;
+    height: 0.65rem;
     border-radius: 50%;
+    line-height: 0.65rem;
 }
 .list2 .caozuo .add {
     border: 1px solid rgba(128, 128, 128, 0.73);
     display: inline-block;
-    width: 30%;
-    height: 30%;
+    width: 0.65rem;
+    height: 0.65rem;
     border-radius: 50%;
+    line-height: 0.65rem;
     background:  #00d0ff;
     color: white;
 }
