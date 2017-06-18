@@ -112,6 +112,10 @@ a{
 
 }
 
+#right-con ul .fenlei .list li{
+    clear:both;
+}
+
 .list{
     font-size: 0.45rem;
 }
