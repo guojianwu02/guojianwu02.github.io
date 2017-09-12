@@ -1,0 +1,1 @@
+{"groups":[{"keys":"bg_jpg,egret_icon_png,description_json,tashuo_mp3","name":"preload"}],"resources":[{"url":"config/description_2e5ca871.json","type":"json","name":"description_json"},{"url":"assets/tashuo_1bf8f701.mp3","type":"sound","name":"tashuo_mp3"},{"url":"packs0/preload-0sheet_759ba73f.json","type":"sheet","name":"preload-0sheet","subkeys":"egret_icon_png,bg_jpg"}]}
